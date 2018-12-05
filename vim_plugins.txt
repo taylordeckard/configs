@@ -1,5 +1,6 @@
 https://github.com/tadeckar/config.git
 https://github.com/Valloric/YouCompleteMe.git
+https://github.com/jiangmiao/auto-pairs.git
 https://github.com/vim-airline/vim-airline-themes
 https://github.com/tpope/vim-surround
 https://github.com/bling/vim-airline
@@ -12,7 +13,6 @@ https://github.com/mxw/vim-jsx.git
 https://github.com/junegunn/fzf.vim.git
 https://github.com/Quramy/tsuquyomi.git
 https://github.com/pangloss/vim-javascript
-https://github.com/raimondi/delimitmate
 git://github.com/tpope/vim-unimpaired.git
 https://github.com/tpope/vim-fugitive.git
 https://github.com/haya14busa/incsearch.vim
